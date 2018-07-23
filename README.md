@@ -1,1 +1,1 @@
-# Project proposal: Capital Bikeshare Analysis
+# Project proposal: Capital Bikeshare Analysis (Charts)
